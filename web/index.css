@@ -1,0 +1,21 @@
+.gambar{
+    background-color: rgb(169, 242, 255);
+}
+table {
+    width: 400px;
+    height: 100px;
+}
+.
+.title{
+    color: blue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.Tabel {
+    table-layout: fixed;
+    background-color: rgb(255, 153, 0);
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+    text-decoration: overline;
+    
+}
